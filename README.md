@@ -10,11 +10,11 @@ This section outlines the features of the Android Remote Access Tool for educati
 <h2 align="center">🔗 Contact and Social Media Accounts</h2>
 
 <p align="center">
-  <a href="https://telegram.me/RedTeamer2">
+  <a href="https://telegram.me/+yuzqLZmqhcQzOWQ1">
     <img src="https://img.shields.io/badge/CONTACT-TELEGRAM-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
   </a>
 
-# support payload APK, QR, PDF, JPG, PNG, LINK
+# Support Payload APK, QR, PDF, JPG, PNG, LINK
 
 # demo video
 
