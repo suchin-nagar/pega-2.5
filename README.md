@@ -1,7 +1,7 @@
 # Pegasus Android Rat v2.5
 
 <p align="center">
-  <img src="pegasus.png" alt="Pegasus Icon" width="200" height="200">
+  <img src="pegasus.jpg" alt="Pegasus Icon" width="200" height="200">
 </p>
 
 ## Android RAT Features
