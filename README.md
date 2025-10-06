@@ -7,7 +7,7 @@
 ## Android RAT Features
 This section outlines the features of the Android Remote Access Tool for educational and authorized security testing purposes only.
 
-<h2 align="center">🔗 Contact and Social Media Accounts</h2>
+<h2 align="center">🔗 Contact Us Telegeam </h2>
 
 <p align="center">
   <a href="https://telegram.me/+yuzqLZmqhcQzOWQ1">
